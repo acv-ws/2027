@@ -1,0 +1,21 @@
+title: ACV 2027
+
+# baseurl: "/2027" # the subpath of your site, e.g. /blog
+# url: "https://acv-ws.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+
+theme: minima
+# theme: jekyll-theme-conference
+
+plugins:
+  - jekyll-include-cache
+
+
+# Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
+masthead: assets/images/banner.png
+
+
+minima:
+  nav_pages:
+    - about.md
+    - portfolio.md
+
