@@ -12,21 +12,6 @@ July 19, 2027
 Affiliated with [CAV 2027](https://https://conferences.i-cav.org/2027/)   
 Amsterdam, the Netherlands
 
-Jump to [Invited Speakers](#invited-speakers) (w/ abstracts), [Contributed Presentations](#contributed-presentations) (w/ abstracts),  [Workshop Scope](#workshop-scope), [Call for Presentations](#call-for-presentations) (closed)
-
-## Program
-
-TBA
-
-
-
-## Invited Speakers
-
-TBA
-
-## Contributed Presentations:
-
-TBA
 
 ## Workshop Scope
 
